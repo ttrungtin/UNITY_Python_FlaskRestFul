@@ -1,0 +1,3 @@
+flask_restful
+opencv_python
+mtcnn
